@@ -1,0 +1,11 @@
+framework module QuickFDBK {
+  umbrella header "QuickFDBK.h"
+
+  export *
+  module * { export * }
+}
+
+module QuickFDBK.Swift {
+    header "QuickFDBK-Swift.h"
+    requires objc
+}
