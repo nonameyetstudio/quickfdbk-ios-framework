@@ -26,7 +26,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dWiLb97Eip9k9T7d0g/ohweCvyo=
+		FaCTKPBZ2/HiVOf8/I1KOkEe+Q0=
 		</data>
 		<key>CaptureView.nib/objects-13.0+.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/QuickFDBK-Swift.h</key>
 		<data>
-		LHVEiFmG+61tmsDnqBAPldZHfzY=
+		I3YOuKhsQ/+ROWt5puMVhUgvK/4=
 		</data>
 		<key>Headers/QuickFDBK.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nC/pNW4PSn+5I2J8xxV7YAGIE4s=
+		4O7U35xeciUmGqpQcLJMlFUlG7g=
 		</data>
 		<key>Main.storyboardc/2wL-hh-jBq-view-dg9-0B-Kdh.nib/objects-13.0+.nib</key>
 		<data>
@@ -170,51 +170,51 @@
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5Ui1ddwWoHtCT78Uuya3JZuoQIc=
+		iyngGSkp8q/3pqfD+P4h1EhCEzI=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		e1MPXoVTSj7+bOd4fLxLDJsGWys=
+		G7txjZRYxW0K/jqlgMpI+4hjCbQ=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wXCQUqm3SlLh5iCZmUCCvBLQx8Y=
+		dsX6/Pj2+4uGuA+JIA2h7o+9TEk=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		5Ui1ddwWoHtCT78Uuya3JZuoQIc=
+		iyngGSkp8q/3pqfD+P4h1EhCEzI=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		e1MPXoVTSj7+bOd4fLxLDJsGWys=
+		G7txjZRYxW0K/jqlgMpI+4hjCbQ=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		wXCQUqm3SlLh5iCZmUCCvBLQx8Y=
+		dsX6/Pj2+4uGuA+JIA2h7o+9TEk=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fVVlm0vDNReFizebUeinXiZxSMM=
+		tluecCNOOW0HRwCrBZRWx9J9/3Q=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fSO/Hkk9489Hns7Vzxu0jD6XVfA=
+		gg8V+McxGut9SmMoR4U8bD5RHAs=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aAEeuUCLBdfGFSmqVLzUvk/UojQ=
+		kaA58VXvBUEPVx/1vgfVRtpn4/k=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		fVVlm0vDNReFizebUeinXiZxSMM=
+		tluecCNOOW0HRwCrBZRWx9J9/3Q=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		fSO/Hkk9489Hns7Vzxu0jD6XVfA=
+		gg8V+McxGut9SmMoR4U8bD5RHAs=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		aAEeuUCLBdfGFSmqVLzUvk/UojQ=
+		kaA58VXvBUEPVx/1vgfVRtpn4/k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -462,7 +462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wW+rkdDAXiARjX3Uh9hbrXt0RfrIinbi0Aouy10VzNY=
+			f7CnCs2WwzJuh54/o9k7DxRPD1aFk2+s2cTxmBbxQSo=
 			</data>
 		</dict>
 		<key>CaptureView.nib/objects-13.0+.nib</key>
@@ -511,7 +511,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7TU0Io+JbUEdSIkty0V0BfRmkVDmTAl9dO0VZwYo5n4=
+			536QSsxEd6hGkUuV8zzHkm5taiX7SMpl3O35y6i8PS0=
 			</data>
 		</dict>
 		<key>Headers/QuickFDBK.h</key>
@@ -707,84 +707,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			14lPHUSzwxU7Lt1Xo+S6jgPQwrDcD8IwWGA8Opy/i/s=
+			vWd1k2tjKJLhS/thupJXq4Dv3uu9/GX8hEth/CK1rpE=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XV/lb42rzInTkwSk8ebE0VsWo43StLYaX7AxY5Z19NM=
+			Co0hKQbJnyruorhKpN07gYvAW+D7tkvYjFdYXcB21yk=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FVFXvRJLNqlq5U1Xghz1ln2p21SIB/XyzrpbvEVjEx4=
+			oQbTJ4r6LrmzDZnqQzFJap+O9icik4nRuzM79kZ43fw=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			14lPHUSzwxU7Lt1Xo+S6jgPQwrDcD8IwWGA8Opy/i/s=
+			vWd1k2tjKJLhS/thupJXq4Dv3uu9/GX8hEth/CK1rpE=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XV/lb42rzInTkwSk8ebE0VsWo43StLYaX7AxY5Z19NM=
+			Co0hKQbJnyruorhKpN07gYvAW+D7tkvYjFdYXcB21yk=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FVFXvRJLNqlq5U1Xghz1ln2p21SIB/XyzrpbvEVjEx4=
+			oQbTJ4r6LrmzDZnqQzFJap+O9icik4nRuzM79kZ43fw=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dUt2EkB0EchJruYJFNBpy2NPJ1o5Nd9S36yrnhS9KLk=
+			nibtrKCw5+kb20pNxDipvTLH3Dcn7nCGEl/ue+h0jnM=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuia5PIjN4j0BmMKK+0fXi1KiGyFZhQa59v8BnFC6Lo=
+			Ia8hDG3vQIoedPDELTAmmR+jhes3R5Il/+YKwAfLQXM=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahb1G72tRIFonmbvXqypda7x4I0olQJpQRIbbcYyxB0=
+			IXLaSR0ruPRTkClk+hvFu/xOhWQkS/SUk8kpIYBkMYs=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dUt2EkB0EchJruYJFNBpy2NPJ1o5Nd9S36yrnhS9KLk=
+			nibtrKCw5+kb20pNxDipvTLH3Dcn7nCGEl/ue+h0jnM=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuia5PIjN4j0BmMKK+0fXi1KiGyFZhQa59v8BnFC6Lo=
+			Ia8hDG3vQIoedPDELTAmmR+jhes3R5Il/+YKwAfLQXM=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ahb1G72tRIFonmbvXqypda7x4I0olQJpQRIbbcYyxB0=
+			IXLaSR0ruPRTkClk+hvFu/xOhWQkS/SUk8kpIYBkMYs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
