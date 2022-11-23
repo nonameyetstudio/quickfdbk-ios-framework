@@ -6,6 +6,6 @@ framework module QuickFDBK {
 }
 
 module QuickFDBK.Swift {
-    header "QuickFDBK-Swift.h"
-    requires objc
+  header "QuickFDBK-Swift.h"
+  requires objc
 }

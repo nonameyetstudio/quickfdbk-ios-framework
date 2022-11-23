@@ -1,0 +1,2429 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReplayKit",
+        "printedName": "ReplayKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReplayKit",
+        "printedName": "ReplayKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ShareMethod",
+        "printedName": "ShareMethod",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shareSheet",
+            "printedName": "shareSheet",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QuickFDBK.ShareMethod.Type) -> QuickFDBK.ShareMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QuickFDBK.ShareMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ShareMethod",
+                        "printedName": "QuickFDBK.ShareMethod",
+                        "usr": "s:9QuickFDBK11ShareMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9QuickFDBK11ShareMethodO10shareSheetyA2CmF",
+            "mangledName": "$s9QuickFDBK11ShareMethodO10shareSheetyA2CmF",
+            "moduleName": "QuickFDBK"
+          },
+          {
+            "kind": "Var",
+            "name": "trello",
+            "printedName": "trello",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QuickFDBK.ShareMethod.Type) -> QuickFDBK.ShareMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QuickFDBK.ShareMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ShareMethod",
+                        "printedName": "QuickFDBK.ShareMethod",
+                        "usr": "s:9QuickFDBK11ShareMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9QuickFDBK11ShareMethodO6trelloyA2CmF",
+            "mangledName": "$s9QuickFDBK11ShareMethodO6trelloyA2CmF",
+            "moduleName": "QuickFDBK"
+          },
+          {
+            "kind": "Var",
+            "name": "monday",
+            "printedName": "monday",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QuickFDBK.ShareMethod.Type) -> QuickFDBK.ShareMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QuickFDBK.ShareMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ShareMethod",
+                        "printedName": "QuickFDBK.ShareMethod",
+                        "usr": "s:9QuickFDBK11ShareMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9QuickFDBK11ShareMethodO6mondayyA2CmF",
+            "mangledName": "$s9QuickFDBK11ShareMethodO6mondayyA2CmF",
+            "moduleName": "QuickFDBK"
+          },
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QuickFDBK.ShareMethod.Type) -> QuickFDBK.ShareMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QuickFDBK.ShareMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ShareMethod",
+                        "printedName": "QuickFDBK.ShareMethod",
+                        "usr": "s:9QuickFDBK11ShareMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9QuickFDBK11ShareMethodO4noneyA2CmF",
+            "mangledName": "$s9QuickFDBK11ShareMethodO4noneyA2CmF",
+            "moduleName": "QuickFDBK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QuickFDBK.ShareMethod?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9QuickFDBK11ShareMethodO8rawValueACSgSS_tcfc",
+            "mangledName": "$s9QuickFDBK11ShareMethodO8rawValueACSgSS_tcfc",
+            "moduleName": "QuickFDBK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9QuickFDBK11ShareMethodO8rawValueSSvp",
+            "mangledName": "$s9QuickFDBK11ShareMethodO8rawValueSSvp",
+            "moduleName": "QuickFDBK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK11ShareMethodO8rawValueSSvg",
+                "mangledName": "$s9QuickFDBK11ShareMethodO8rawValueSSvg",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9QuickFDBK11ShareMethodO",
+        "mangledName": "$s9QuickFDBK11ShareMethodO",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Configs",
+        "printedName": "Configs",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shareMethod",
+            "printedName": "shareMethod",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ShareMethod",
+                "printedName": "QuickFDBK.ShareMethod",
+                "usr": "s:9QuickFDBK11ShareMethodO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9QuickFDBK7ConfigsP11shareMethodAA05ShareE0Ovp",
+            "mangledName": "$s9QuickFDBK7ConfigsP11shareMethodAA05ShareE0Ovp",
+            "moduleName": "QuickFDBK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK7ConfigsP11shareMethodAA05ShareE0Ovg",
+                "mangledName": "$s9QuickFDBK7ConfigsP11shareMethodAA05ShareE0Ovg",
+                "moduleName": "QuickFDBK",
+                "genericSig": "<τ_0_0 where τ_0_0 : QuickFDBK.Configs>",
+                "sugared_genericSig": "<Self where Self : QuickFDBK.Configs>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:9QuickFDBK7ConfigsP",
+        "mangledName": "$s9QuickFDBK7ConfigsP",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TrelloConfigs",
+        "printedName": "TrelloConfigs",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shareMethod",
+            "printedName": "shareMethod",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ShareMethod",
+                "printedName": "QuickFDBK.ShareMethod",
+                "usr": "s:9QuickFDBK11ShareMethodO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovp",
+            "mangledName": "$s9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovp",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovg",
+                "mangledName": "$s9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovg",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ShareMethod",
+                    "printedName": "QuickFDBK.ShareMethod",
+                    "usr": "s:9QuickFDBK11ShareMethodO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovs",
+                "mangledName": "$s9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0Ovs",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0OvM",
+                "mangledName": "$s9QuickFDBK13TrelloConfigsV11shareMethodAA05ShareF0OvM",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(idList:key:token:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TrelloConfigs",
+                "printedName": "QuickFDBK.TrelloConfigs",
+                "usr": "s:9QuickFDBK13TrelloConfigsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9QuickFDBK13TrelloConfigsV6idList3key5tokenACSS_S2Stcfc",
+            "mangledName": "$s9QuickFDBK13TrelloConfigsV6idList3key5tokenACSS_S2Stcfc",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9QuickFDBK13TrelloConfigsV",
+        "mangledName": "$s9QuickFDBK13TrelloConfigsV",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Configs",
+            "printedName": "Configs",
+            "usr": "s:9QuickFDBK7ConfigsP",
+            "mangledName": "$s9QuickFDBK7ConfigsP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "QuickFDBKKit",
+        "printedName": "QuickFDBKKit",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "QuickFDBKKit",
+                "printedName": "QuickFDBK.QuickFDBKKit",
+                "usr": "c:@M@QuickFDBK@objc(cs)QuickFDBKKit"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9QuickFDBK0A7FDBKKitC6sharedACvpZ",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC6sharedACvpZ",
+            "moduleName": "QuickFDBK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QuickFDBKKit",
+                    "printedName": "QuickFDBK.QuickFDBKKit",
+                    "usr": "c:@M@QuickFDBK@objc(cs)QuickFDBKKit"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9QuickFDBK0A7FDBKKitC6sharedACvgZ",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC6sharedACvgZ",
+                "moduleName": "QuickFDBK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "FeedbackGesture",
+            "printedName": "FeedbackGesture",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "shake",
+                "printedName": "shake",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(QuickFDBK.QuickFDBKKit.FeedbackGesture.Type) -> QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FeedbackGesture",
+                        "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                        "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "FeedbackGesture",
+                            "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                            "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO5shakeyA2EmF",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO5shakeyA2EmF",
+                "moduleName": "QuickFDBK"
+              },
+              {
+                "kind": "Var",
+                "name": "fourFingers",
+                "printedName": "fourFingers",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(QuickFDBK.QuickFDBKKit.FeedbackGesture.Type) -> QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FeedbackGesture",
+                        "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                        "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "FeedbackGesture",
+                            "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                            "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO11fourFingersyA2EmF",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO11fourFingersyA2EmF",
+                "moduleName": "QuickFDBK"
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FeedbackGesture",
+                    "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                    "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FeedbackGesture",
+                    "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                    "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO2eeoiySbAE_AEtFZ",
+                "moduleName": "QuickFDBK",
+                "static": true,
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "hashValue",
+                "printedName": "hashValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO9hashValueSivp",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO9hashValueSivp",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO9hashValueSivg",
+                    "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO9hashValueSivg",
+                    "moduleName": "QuickFDBK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "hash",
+                "printedName": "hash(into:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hasher",
+                    "printedName": "Swift.Hasher",
+                    "paramValueOwnership": "InOut",
+                    "usr": "s:s6HasherV"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO4hash4intoys6HasherVz_tF",
+                "moduleName": "QuickFDBK",
+                "implicit": true,
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC15FeedbackGestureO",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(activationKey:feedbackGesture:testingNotes:hasWebGL:options:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FeedbackGesture",
+                "printedName": "QuickFDBK.QuickFDBKKit.FeedbackGesture",
+                "hasDefaultArg": true,
+                "usr": "s:9QuickFDBK0A7FDBKKitC15FeedbackGestureO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QuickFDBK.Configs?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Configs",
+                    "printedName": "QuickFDBK.Configs",
+                    "usr": "s:9QuickFDBK7ConfigsP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9QuickFDBK0A7FDBKKitC10initialize13activationKey15feedbackGesture12testingNotes8hasWebGL7optionsySS_AC08FeedbackH0OSSSbAA7Configs_pSgtF",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC10initialize13activationKey15feedbackGesture12testingNotes8hasWebGL7optionsySS_AC08FeedbackH0OSSSbAA7Configs_pSgtF",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applicationDidBecomeActive",
+            "printedName": "applicationDidBecomeActive()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9QuickFDBK0A7FDBKKitC26applicationDidBecomeActiveyyF",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC26applicationDidBecomeActiveyyF",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startFeedback",
+            "printedName": "startFeedback()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9QuickFDBK0A7FDBKKitC13startFeedbackyyF",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC13startFeedbackyyF",
+            "moduleName": "QuickFDBK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "QuickFDBKKit",
+                "printedName": "QuickFDBK.QuickFDBKKit",
+                "usr": "c:@M@QuickFDBK@objc(cs)QuickFDBKKit"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@QuickFDBK@objc(cs)QuickFDBKKit(im)init",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitCACycfc",
+            "moduleName": "QuickFDBK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "gestureRecognizer",
+            "printedName": "gestureRecognizer(_:shouldRecognizeSimultaneouslyWith:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIGestureRecognizer",
+                "printedName": "UIKit.UIGestureRecognizer",
+                "usr": "c:objc(cs)UIGestureRecognizer"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIGestureRecognizer",
+                "printedName": "UIKit.UIGestureRecognizer",
+                "usr": "c:objc(cs)UIGestureRecognizer"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@QuickFDBK@objc(cs)QuickFDBKKit(im)gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:",
+            "mangledName": "$s9QuickFDBK0A7FDBKKitC17gestureRecognizer_33shouldRecognizeSimultaneouslyWithSbSo09UIGestureE0C_AGtF",
+            "moduleName": "QuickFDBK",
+            "objc_name": "gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@QuickFDBK@objc(cs)QuickFDBKKit",
+        "mangledName": "$s9QuickFDBK0A7FDBKKitC",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QuickFDBK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIWindow",
+        "printedName": "UIWindow",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "motionEnded",
+            "printedName": "motionEnded(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "EventSubtype",
+                "printedName": "UIKit.UIEvent.EventSubtype",
+                "usr": "c:@E@UIEventSubtype"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@QuickFDBK@@objc(cs)UIWindow(im)motionEnded:withEvent:",
+            "mangledName": "$sSo8UIWindowC9QuickFDBKE11motionEnded_4withySo14UIEventSubtypeV_So0G0CSgtF",
+            "moduleName": "QuickFDBK",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "motionEnded:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIWindow",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIWindow",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/SelectOptionViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 471,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/SelectOptionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 478,
+      "length": 17,
+      "value": "\"last 10 seconds\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/SelectOptionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 498,
+      "length": 15,
+      "value": "\"tap to enable\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "StringLiteral",
+      "offset": 451,
+      "length": 15,
+      "value": "\"recordedVideo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "StringLiteral",
+      "offset": 535,
+      "length": 16,
+      "value": "\"recordingVideo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 15,
+      "value": "\"metadataVideo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "StringLiteral",
+      "offset": 708,
+      "length": 26,
+      "value": "\"QuickFDBK recorded video\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "StringLiteral",
+      "offset": 799,
+      "length": 12,
+      "value": "\"finalVideo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 850,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/CaptureManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15352,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/MarkupControlsView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 664,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/NoteTypeCollectionViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 306,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/AnnotateControlsView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 673,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodView.swift",
+      "kind": "StringLiteral",
+      "offset": 388,
+      "length": 13,
+      "value": "\"monday_logo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodView.swift",
+      "kind": "StringLiteral",
+      "offset": 466,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/NoteTextView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 702,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/NoteTextView.swift",
+      "kind": "StringLiteral",
+      "offset": 1403,
+      "length": 8,
+      "value": "\"Name: \""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/NoteTextView.swift",
+      "kind": "StringLiteral",
+      "offset": 1438,
+      "length": 8,
+      "value": "\"Note: \""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/VideoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 895,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 672,
+      "length": 3,
+      "value": "342"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 721,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "Array",
+      "offset": 754,
+      "length": 3,
+      "value": "[0]"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1072,
+      "length": 6,
+      "value": "\"Done\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1238,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9137,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10717,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/EditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16305,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/Sticker.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/Sticker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 227,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/Sticker.swift",
+      "kind": "BooleanLiteral",
+      "offset": 317,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 348,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 388,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 435,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 494,
+      "length": 2,
+      "value": "77"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 497,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 511,
+      "length": 2,
+      "value": "77"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 514,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 527,
+      "length": 2,
+      "value": "77"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 530,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/ColorCell.swift",
+      "kind": "FloatLiteral",
+      "offset": 544,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 843,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1050,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1094,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "StringLiteral",
+      "offset": 1140,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1299,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "StringLiteral",
+      "offset": 1719,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1758,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "StringLiteral",
+      "offset": 3089,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3137,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/NoteEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 802,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 573,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 805,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1043,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1318,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1367,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2092,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2127,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2185,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2318,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2367,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2396,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2434,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2475,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Controller\/PhotoEditor\/PhotoEditorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2604,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 31,
+      "value": "\"https:\/\/backend.quickfdbk.com\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 18,
+      "value": "\"\/monday\/add-item\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 310,
+      "length": 13,
+      "value": "\"?productId=\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 367,
+      "length": 21,
+      "value": "\"\/monday\/upload-file\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 431,
+      "length": 13,
+      "value": "\"\/product-id\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/TrelloManager.swift",
+      "kind": "StringLiteral",
+      "offset": 221,
+      "length": 32,
+      "value": "\"https:\/\/api.trello.com\/1\/cards\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 387,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/VideoControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 352,
+      "length": 7,
+      "value": "\"close\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/VideoControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 557,
+      "length": 10,
+      "value": "\"note_off\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/VideoControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 767,
+      "length": 11,
+      "value": "\"share_off\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 608,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 893,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
+      "kind": "StringLiteral",
+      "offset": 1022,
+      "length": 14,
+      "value": "\"More options\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
+      "kind": "StringLiteral",
+      "offset": 1049,
+      "length": 18,
+      "value": "\"share_sheet_logo\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 10,
+      "value": "\"approved\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 11,
+      "value": "\"too_small\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 474,
+      "length": 9,
+      "value": "\"too_big\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 504,
+      "length": 8,
+      "value": "\"wrong1\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 533,
+      "length": 8,
+      "value": "\"wrong2\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 562,
+      "length": 8,
+      "value": "\"remove\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 591,
+      "length": 12,
+      "value": "\"arrow_left\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 10,
+      "value": "\"arrow_up\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 655,
+      "length": 13,
+      "value": "\"arrow_right\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 689,
+      "length": 12,
+      "value": "\"arrow_down\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 6,
+      "value": "\"fire\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 749,
+      "length": 7,
+      "value": "\"crash\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 777,
+      "length": 5,
+      "value": "\"wtf\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 9,
+      "value": "\"tighten\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 833,
+      "length": 9,
+      "value": "\"padding\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/StickersControlsView.swift",
+      "kind": "StringLiteral",
+      "offset": 867,
+      "length": 28,
+      "value": "\"abcdefghijklmnopqrstuvwxyz\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "Array",
+      "offset": 207,
+      "length": 199,
+      "value": "[\"Black\", \"Grey\", \"White\", \"Magenta\", \"Purple\", \"Lavender\", \"Navy\", \"Blue\", \"Cyan\", \"Teal\", \"Green\", \"Mint\", \"Lime\", \"Olive\", \"Yellow\", \"Beige\", \"Apricot\", \"Orange\", \"Brown\", \"Pink\", \"Red\", \"Maroon\"]"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "Array",
+      "offset": 432,
+      "length": 711,
+      "value": "[\"Dog\", \"Squirrel\", \"Cougar\", \"Raven\", \"Cat\", \"Alligator\", \"Bear\", \"Possum\", \"Lion\", \"Crocodile\", \"Koala\", \"Tiger\", \"Chipmunks\", \"Swan\", \"Rabbit\", \"Whale\", \"Goat\", \"Duck\", \"Octopus\", \"Sheep\", \"Zebra\", \"Anaconda\", \"Cow\", \"Goose\", \"Eagle\", \"Pig\", \"Donkey\", \"Parrot\", \"Panda\", \"Elephant\", \"Skunk\", \"Bull\", \"Dolphin\", \"Jaguar\", \"Rooster\", \"Salamander\", \"Tortoise\", \"Chicken\", \"Raccoon\", \"Hedgehog\", \"Piranha\", \"Penguin\", \"Iguana\", \"Flamingo\", \"Crow\", \"Jellyﬁsh\", \"Frog\", \"Monkey\", \"Giraffe\", \"Sloth\", \"Pigeon\", \"Lobster\", \"Wolf\", \"Swordﬁsh\", \"Deer\", \"Spider\", \"Catﬁsh\", \"Cobra\", \"Hamster\", \"Fox\", \"Chimpanzee\", \"Seal\", \"Llama\", \"Kangaroo\", \"Leopard\", \"Camel\", \"Cheetah\", \"Gorilla\", \"Crab\", \"Hippo\", \"Mouse\"]"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "Array",
+      "offset": 1175,
+      "length": 28,
+      "value": "[\"Feedback\", \"Bug\", \"Other\"]"
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1271,
+      "length": 25,
+      "value": "\"userAllowedRecordingKey\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1337,
+      "length": 24,
+      "value": "\"helperAlreadyPresented\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1390,
+      "length": 12,
+      "value": "\"noteAuthor\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Support Files\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 1436,
+      "length": 17,
+      "value": "\"anonymousAuthor\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/SharingMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 210,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
