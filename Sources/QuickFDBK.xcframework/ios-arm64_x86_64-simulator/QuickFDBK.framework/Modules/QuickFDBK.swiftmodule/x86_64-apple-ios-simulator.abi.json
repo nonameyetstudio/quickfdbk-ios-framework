@@ -1790,17 +1790,10 @@
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodView.swift",
-      "kind": "StringLiteral",
-      "offset": 388,
-      "length": 13,
-      "value": "\"monday_logo\""
-    },
-    {
-      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodView.swift",
-      "kind": "StringLiteral",
-      "offset": 466,
+      "kind": "Array",
+      "offset": 346,
       "length": 2,
-      "value": "\"\""
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/NoteTextView.swift",
@@ -2043,14 +2036,14 @@
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
       "kind": "StringLiteral",
-      "offset": 3089,
+      "offset": 3118,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/QuickFDBKKit.swift",
       "kind": "BooleanLiteral",
-      "offset": 3137,
+      "offset": 3166,
       "length": 5,
       "value": "false"
     },
@@ -2195,6 +2188,13 @@
       "value": "\"\/product-id\""
     },
     {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/MondayManager.swift",
+      "kind": "StringLiteral",
+      "offset": 489,
+      "length": 20,
+      "value": "\"\/monday\/board-name\""
+    },
+    {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Managers\/TrelloManager.swift",
       "kind": "StringLiteral",
       "offset": 221,
@@ -2232,28 +2232,28 @@
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 608,
+      "offset": 598,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 893,
+      "offset": 883,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
       "kind": "StringLiteral",
-      "offset": 1022,
+      "offset": 1012,
       "length": 14,
       "value": "\"More options\""
     },
     {
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/View\/Custom\/SharingMethodCell.swift",
       "kind": "StringLiteral",
-      "offset": 1049,
+      "offset": 1039,
       "length": 18,
       "value": "\"share_sheet_logo\""
     },
@@ -2422,6 +2422,13 @@
       "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/SharingMethod.swift",
       "kind": "StringLiteral",
       "offset": 210,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rolandsoos\/Work\/quicfdbk\/quickfdbk-ios\/QuickFDBK\/Model\/SharingMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
       "length": 2,
       "value": "\"\""
     }

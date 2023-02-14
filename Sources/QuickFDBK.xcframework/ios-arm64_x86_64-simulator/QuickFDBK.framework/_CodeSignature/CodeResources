@@ -26,7 +26,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		8kyOIZZ71S3BhtM4eqHfoR3Nj0c=
+		QlI2i0DAz8rlFmIivzEDMMzoEo4=
 		</data>
 		<key>CaptureView.nib/objects-13.0+.nib</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		s8bgpFaxJnYkc6iEyNWLLmo0+lw=
+		fQ/fN0UTDEFOGnLHhHhAk3Dl+EE=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -186,11 +186,11 @@
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SVroqGmy/oTVRPK94xGide83/Pk=
+		lhAGvVJnZt7IBzst28nYUrKgLoY=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		s8bgpFaxJnYkc6iEyNWLLmo0+lw=
+		fQ/fN0UTDEFOGnLHhHhAk3Dl+EE=
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		811PlYCFRSYm8Vx5ca2OLnKKe3U=
+		XrgdCv8WeS8HrgtIzqM5+5FAicw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -370,15 +370,15 @@
 		</data>
 		<key>SharingMethodCell.nib/objects-12.3+.nib</key>
 		<data>
-		PqFTnbkqKlcmnAtMeQpsHrtjjQY=
+		uSN9Rkt55dk9JTCSVN9mfSGAoE0=
 		</data>
 		<key>SharingMethodCell.nib/runtime.nib</key>
 		<data>
-		2FstJ2bMJ+VoGOv3YCajtF5cL5E=
+		R0e/3YC46ADFv5kJ+2uTfrwrvpg=
 		</data>
 		<key>SharingMethodView.nib</key>
 		<data>
-		lugrvo5PlYKsa3xZt2U9aknhSdg=
+		v4/mebCszpS9xGVJbqIWWSdMyRQ=
 		</data>
 		<key>StickerView.nib</key>
 		<data>
@@ -462,7 +462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcrwmjPSQt8vhZYXRiEV0soJLj3ok0TYasppLqi4FNM=
+			6FNd13buqj6U4DPC6Gd8Q9t/u/RcQfCjeQ7+Byj3WfU=
 			</data>
 		</dict>
 		<key>CaptureView.nib/objects-13.0+.nib</key>
@@ -707,7 +707,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBfZk1nb4AHyejY+4qgPA0iYApblZY+ZnKcZVBfpGYs=
+			1UPub+CZ/zKBu+J3CloWgqFihNe1bwo8ZUQS9miK7i8=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -735,14 +735,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HAbMfATLR/4ifMy1ptkfELMHTpTv9rftoK/JEFGRHnI=
+			T0O36QVweGVpXR5RdisLXF9E1MS/fHB4qhfoxwFvElQ=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBfZk1nb4AHyejY+4qgPA0iYApblZY+ZnKcZVBfpGYs=
+			1UPub+CZ/zKBu+J3CloWgqFihNe1bwo8ZUQS9miK7i8=
 			</data>
 		</dict>
 		<key>Modules/QuickFDBK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -770,7 +770,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5DsnMMTEhIfptGCn7VCAsKj/OT6Hsrfz490dhGkQa4U=
+			ONkF0UW6ZdOXD+ptb8vGpMkMiMSVwOzQ3ZIgBho+VXQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1057,21 +1057,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QnjN6Cs0Rn6uvVHazr0jcxgpUINxgXjLrU52SqmtWuc=
+			5xqkwbCnQkHummCheDQVxSY/iF6TY8T4y74R4oWWHmo=
 			</data>
 		</dict>
 		<key>SharingMethodCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZP1d3gsnQfde0OWJgjxtNtQaQrDfU9F+6x4BOAyMYPs=
+			V6DN4gDoBLaDUVy2z4dGtr7pKD8uxAVMr61oP/EjnCE=
 			</data>
 		</dict>
 		<key>SharingMethodView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PIyF0Wfve1d/eK1qcOIje83orYlnXds108XsOYorGRU=
+			XGMuf5+7ZDKmyFXqXgiVwo8BEoSq6PDv7xAwQfKxQK4=
 			</data>
 		</dict>
 		<key>StickerView.nib</key>
